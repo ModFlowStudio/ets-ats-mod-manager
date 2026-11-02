@@ -14,7 +14,7 @@
 
 ### [Скачать последнюю версию](https://github.com/ModFlowStudio/ets-ats-mod-manager/releases/latest)
 
-[English](README.en.md) · [Telegram](https://t.me/ModFlowStudio) · [Discord](https://discord.gg/3wq4sZv55w) · [Поддержать проект](https://donatepay.ru/don/ModFlowStudio)
+[English](README.en.md) · [Сайт](https://modflowstudio.com) · [Telegram](https://t.me/ModFlowStudio) · [Discord](https://discord.gg/3wq4sZv55w) · [Поддержать проект](https://donatepay.ru/don/ModFlowStudio)
 
 </div>
 
@@ -109,8 +109,9 @@
 
 ## Студия и связь
 
-Менеджер делает **ModFlow Studio** (Quaaazi и Underworld). Новости обновлений, ответы разработчиков и помощь по модам мы публикуем в наших каналах:
+Менеджер делает **ModFlow Studio**. Новости обновлений, ответы разработчиков и помощь по модам мы публикуем в наших каналах:
 
+- Сайт: [modflowstudio.com](https://modflowstudio.com)
 - Telegram: [t.me/ModFlowStudio](https://t.me/ModFlowStudio)
 - Discord: [discord.gg/3wq4sZv55w](https://discord.gg/3wq4sZv55w)
 - Об ошибке можно сообщить прямо из программы: «Анализ вылета» → «Отправить отчёт разработчикам».
