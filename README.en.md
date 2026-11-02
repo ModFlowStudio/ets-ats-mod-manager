@@ -14,7 +14,7 @@ Free · Windows 10 and 11 · 16 interface languages
 
 ### [Download the latest version](https://github.com/ModFlowStudio/ets-ats-mod-manager/releases/latest)
 
-[Русский](README.md) · [Telegram](https://t.me/ModFlowStudio) · [Discord](https://discord.gg/3wq4sZv55w) · [Support the project](https://donatepay.ru/don/ModFlowStudio)
+[Русский](README.md) · [Website](https://modflowstudio.com) · [Telegram](https://t.me/ModFlowStudio) · [Discord](https://discord.gg/3wq4sZv55w) · [Support the project](https://donatepay.ru/don/ModFlowStudio)
 
 </div>
 
@@ -109,8 +109,9 @@ The program is free for personal use. You may pass it to others only as the unch
 
 ## Studio and contacts
 
-The manager is made by **ModFlow Studio** (Quaaazi and Underworld). We post update news, developer replies and help with mods in our channels:
+The manager is made by **ModFlow Studio**. We post update news, developer replies and help with mods in our channels:
 
+- Website: [modflowstudio.com](https://modflowstudio.com)
 - Telegram: [t.me/ModFlowStudio](https://t.me/ModFlowStudio)
 - Discord: [discord.gg/3wq4sZv55w](https://discord.gg/3wq4sZv55w)
 - You can report a problem from the program: “Crash analysis” → “Send report to developers”.
