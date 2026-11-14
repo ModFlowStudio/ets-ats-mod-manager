@@ -46,7 +46,7 @@ Build your own set from folder and Steam Workshop mods, put them in the right or
 - A report goes to the developers straight from the program, and the reply comes back into the manager.
 
 **Profile and game**
-- Profile editor: money, experience, skills, ADR, repair and refuel, cities and garages. A save backup is made before editing.
+- Profile editor: money, experience, skills, ADR, repair and refuel, cities and garages. Buses (Coaches DLC) have their own mode. A save backup is made before editing.
 - Game settings: optimization, buffer size, launch options, clearing the cache and logs.
 - Game plugins, radio, profile statistics, a screenshot gallery.
 - A 3D viewer for trucks and trailers (trial version).
@@ -64,7 +64,7 @@ Build your own set from folder and Steam Workshop mods, put them in the right or
   </tr>
   <tr>
     <td width="50%"><img src="docs/img/en-workshop.jpg" alt="Steam Workshop"><br><sub><b>Steam Workshop</b> inside the manager: search, categories, subscriptions.</sub></td>
-    <td width="50%"><img src="docs/img/en-editor.jpg" alt="Profile editor"><br><sub><b>Profile editor.</b> A save backup is made before editing.</sub></td>
+    <td width="50%"><img src="docs/img/en-editor.jpg" alt="Profile editor"><br><sub><b>Profile editor.</b> Has a “Buses” mode. A save backup is made before editing.</sub></td>
   </tr>
 </table>
 
