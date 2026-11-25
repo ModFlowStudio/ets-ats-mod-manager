@@ -34,6 +34,9 @@ Build your own set from folder and Steam Workshop mods, put them in the right or
 - Several builds with quick switching. You can share a build as a `.tmod` file or as an archive together with the mods.
 - The manager warns you if a mod is not for your game version, a DLC is missing or mod files are duplicated.
 - The mod list refreshes by itself when you add a mod to the folder or remove one.
+- Select many mods at once (Ctrl, Shift or by dragging a frame) in the catalog and in the build. Double-click adds a mod or removes it.
+- You can move the mod folder to another drive and bring it back.
+- Steam Workshop shows which mods got a new version.
 
 **Auto-order**
 - One button puts the mods in order. Before applying, you see what moves and why. You can leave any mod where it is and undo the result with Ctrl+Z.
@@ -50,6 +53,12 @@ Build your own set from folder and Steam Workshop mods, put them in the right or
 - Game settings: optimization, buffer size, launch options, clearing the cache and logs.
 - Game plugins, radio, profile statistics, a screenshot gallery.
 - A 3D viewer for trucks and trailers (trial version).
+- Copy controls, sound, camera and game settings to other profiles.
+- Free garages you do not need and remove cities of deleted maps from a save.
+
+**Comfort**
+- Interface size from 100% to 150% and three mod card sizes.
+- 16 interface languages.
 
 **Two games in one program**
 - Euro Truck Simulator 2 and American Truck Simulator switch with one button, and each game has its own mods, profiles and builds.
@@ -63,7 +72,7 @@ Build your own set from folder and Steam Workshop mods, put them in the right or
   </tr>
   <tr>
     <td width="50%"><img src="docs/img/en-workshop.jpg" alt="Steam Workshop"><br><sub><b>Steam Workshop</b> inside the manager: search, categories, subscriptions.</sub></td>
-    <td width="50%"><img src="docs/img/en-editor.jpg" alt="Profile editor"><br><sub><b>Profile editor.</b> Has a “Buses” mode. A save backup is made before editing.</sub></td>
+    <td width="50%"><img src="docs/img/en-editor.jpg" alt="Profile editor"><br><sub><b>Profile editor.</b> Money, experience, garages and settings transfer. A backup is made before changes.</sub></td>
   </tr>
 </table>
 
