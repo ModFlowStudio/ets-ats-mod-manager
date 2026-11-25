@@ -53,7 +53,6 @@ Build your own set from folder and Steam Workshop mods, put them in the right or
 
 **Two games in one program**
 - Euro Truck Simulator 2 and American Truck Simulator switch with one button, and each game has its own mods, profiles and builds.
-- ATS support is still in development and may be unstable.
 
 ## Screenshots
 
